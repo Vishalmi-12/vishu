@@ -1,0 +1,8 @@
+# #print(len(input("What is your name?\n")))
+# name = input("what is your name?")
+# print(len(name))
+print("Welcome to the first project the band name generater\n")
+name = input("what is the name of your city\n")
+pet_name = input("what is the nam of your pet?\n")
+print("this is your band name:\n")
+print(name+" "+pet_name)
